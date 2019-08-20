@@ -1,0 +1,11 @@
+## Interface: 80200
+## Title: Spanish UI !!!
+## Author: Gordelicia (Leonardo Cuquejo "SPANISH-BOY")
+## Notes: ARRIBA !!! España !!!
+## DefaultState: enabled
+## Version: 0.6 Alpha
+
+MyUI.lua
+
+external\external.xml
+components\components.xml
