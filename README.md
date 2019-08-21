@@ -1,2 +1,4 @@
+### Link for the [WoW-API](http://wowprogramming.com/docs/api.html) documentation.
+```
 
-## H2Wow API [I'm an inline-style link](https://www.google.com)
+```
